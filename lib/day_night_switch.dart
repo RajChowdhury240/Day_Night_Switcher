@@ -315,6 +315,9 @@ class _RenderSwitch extends RenderToggleable {
     // during paint. There's no reason to mark ourselves as needing paint if we
     // are already in the middle of painting. (In fact, doing so would trigger
     // an assert).
+      
+    // Coded By Raj Chowdhury !
+      
     if (!_isPainting) markNeedsPaint();
   }
 
