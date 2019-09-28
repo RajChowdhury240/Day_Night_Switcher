@@ -1,4 +1,4 @@
-# DayNight_Switch_Mode
+# Day Night mode Switcher
 
 Day Night Mode Switcher in Flutter
 
