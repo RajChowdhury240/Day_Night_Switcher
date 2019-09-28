@@ -9,6 +9,8 @@ void main() {
   });
 }
 
+// Coded By Raj Chowdhury
+
 const dayColor = Color(0xFFd56352);
 var nightColor = Color(0xFF1e2230);
 
