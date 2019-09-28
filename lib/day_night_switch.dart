@@ -37,6 +37,7 @@ class DayNightSwitch extends StatefulWidget {
   final Color moonColor;
   final Color dayColor;
   final Color nightColor;
+    
 
   @override
   _DayNightSwitchState createState() => _DayNightSwitchState();
