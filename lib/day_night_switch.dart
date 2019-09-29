@@ -451,3 +451,4 @@ class _RenderSwitch extends RenderToggleable {
     );
   }
 }
+
