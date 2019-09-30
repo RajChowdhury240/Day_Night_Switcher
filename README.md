@@ -2,6 +2,8 @@
 
 Day Night Mode Switcher in Flutter
 
+ <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
+
 <img src="https://raw.githubusercontent.com/divyanshub024/day_night_switch/master/day_night_switch.gif" />
 
 # Installation
