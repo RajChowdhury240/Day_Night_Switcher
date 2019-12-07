@@ -17,7 +17,9 @@ dependencies:
 
 ## Usage
 
-To use plugin, just import package `import 'package:day_night_switch/day_night_switch.dart';`
+To use plugin, just import package 
+
+`import 'package:day_night_switch/day_night_switch.dart';`
 
 
 ## Example
